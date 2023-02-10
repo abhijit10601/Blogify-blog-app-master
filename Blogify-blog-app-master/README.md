@@ -16,5 +16,4 @@ A Full Stack Blogging Application made using the MERN Stack..
 5)User can also edit or delete his blogs
 ![singleP](https://user-images.githubusercontent.com/99534166/180640991-f64bb677-e853-4699-9fa8-4cba4fdf41f4.png)
 
-6)All the login Credentials can be updated
-![updateP](https://user-images.githubusercontent.com/99534166/180641004-53bcbe50-1a4d-4672-81dd-d26d67c1dbca.png)
+
